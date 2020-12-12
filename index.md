@@ -7,7 +7,7 @@
       <p><b>邮箱：149465415@qq.com</b></p>
     </td>
     <td width="25%">
-      <img src="/图片1" width="100%">      %
+      <img src="/图片1.png" width="100%">      
     </td>
   </tr>
 </table>
